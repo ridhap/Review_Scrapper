@@ -1,2 +1,2 @@
 # Review_Scrapper
-Scrapping Customer Reviews from FlipKart for a particular search item and deployed using heroku.
+Review scrapper right from scratch and then deploying it to the heroku cloud platform. Text scrappers are extensively used in the industry today for competitive pricing, market studies, customer sentiment analysis, etc. This book takes a simple example of an online cell phone purchase and tries to explain the concepts simply, extensively, and thoroughly to create a review scrapper right from scratch and then its deployment to a cloud environment.
